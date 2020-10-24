@@ -43,3 +43,10 @@ The Main requirements for this program are:
     
     d ) Now we are ready to do web automation. I have used Microsoft Edge Driver for this but you can 
         change the name of the "PATH" according to your browser.
+             
+
+Now if anyone of you do not have selenium nor python in your computer, then I have also given the
+.exe version of Main.py to try out. But if you are a programmer who is looking for the source code, then please
+do the requirements.
+
+*Please note after downloading the exe, you have to click on the file "Main" which is an Application.
