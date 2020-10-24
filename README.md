@@ -49,4 +49,7 @@ Now if anyone of you do not have selenium nor python in your computer, then I ha
 .exe version of Main.py to try out. But if you are a programmer who is looking for the source code, then please
 do the requirements.
 
+To get the exe file, click on the option in this current page which has "main"  with a drop down arrow.
+Then click on the option "Main.exe" and download it (zip file) .
+
 *Please note after downloading the exe, you have to click on the file "Main" which is an Application.
