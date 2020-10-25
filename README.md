@@ -1,4 +1,4 @@
-# Python-Selenium
+# Python-Selenium-Google-Searcher
 This repository contains python files which are mainly done using Selenium module.
 
 This program is used to search on the google without opening google. This can be done using importing
